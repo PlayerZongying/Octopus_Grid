@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* html{
+
+}
+body {
+    overflow: hidden;
+} */
+
+.webgl {
+    /* position: fixed; */
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+#blocker {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#instructions {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+/* .section_title
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 25vh;
+    position: relative;
+    font-family: 'Cabin', sans-serif;
+    color: #f1eded;
+    text-transform: uppercase;
+    font-size: 8vmin;
+    padding-left: 10%;
+    padding-right: 10%;
+} */
+
+/* .section_form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 50vh;
+    position: relative;
+    font-family: 'Cabin', sans-serif;
+    color: #f1eded;
+    text-transform: uppercase;
+    font-size: 2vmin;
+    padding-left: 40%;
+    padding-right: 40%;
+} */
+
+/* h1{
+    text-align: center;
+    display:block;
+} */
+
+/*# sourceMappingURL=main.css.map*/

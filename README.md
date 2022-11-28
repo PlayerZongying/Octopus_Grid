@@ -1,0 +1,1 @@
+1. Open with vscode, run: `npm install`, to install packages2. Run: `npm run dev`, wait for seconds the page will be on the local host port3. you can find one style.css files in /src.  
